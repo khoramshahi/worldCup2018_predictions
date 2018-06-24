@@ -1,12 +1,22 @@
 #World Cup 2018 predicitions
 
 
+## June 22nd
+Here is the perdiction by the end of the day:
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june23.jpg "prediction june 23")
+
+
+### what went againts the odds?
+Group F changed a bit: Germany's likelihood changed from being F1 to F2
+
 
 
 ## June 22nd
 
 Here is the perdiction by the end of the day:
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june22.jpg "prediction june 22")
+
+The following tables show the estimated probabilities (in %) for reaching the different stages.
 
 
 | Team         | Round of 16 | Quarter final | Semi Final |  Final | World Champion |
