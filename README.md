@@ -3,6 +3,11 @@
 
 ## June 23rd
 Here is the perdiction by the end of the day:
+
+* numbers are probablities for each time to show up at a specific location in the brackets.
+* I only focus on 4 most probable teams for each locations.
+* I highlight the locations where is there is update in the ranking compare to the day before.
+
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june23.jpg "prediction june 23")
 
 
