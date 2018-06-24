@@ -14,7 +14,7 @@ Here is the perdiction by the end of the day:
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june24_early.jpg "prediction june 23")
 
 ### What went againts the odds?
-* The elimination of Tunisian and Panama doesn't have an impact on other predictions.
+* The eliminations of Tunisia and Panama didn't have any impact on other predictions.
 * Now, Columbia and Japan have higher chances to go the next round but again with no significant effect beyong Round of 16.
 
 ## June 23rd
