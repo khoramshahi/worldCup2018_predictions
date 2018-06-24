@@ -4,17 +4,25 @@ To predic the outcomes, I run 10000 simulations of the world cup 2018 where I us
 I update the predicitoin at the end each day (if there is a game on the day) and I keep track of how things go against the odds. 
 
 
-## June 23rd
+## June 24th
 Here is the perdiction by the end of the day:
 
 * numbers are probablities (in %) for each time to show up at a specific location in the brackets.
 * I only focus on the 4 most probable teams for each location.
 * I highlight the locations where there is an update in the ranking compared to the day before.
 
-![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june23_fixed2.jpg "prediction june 23")
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june24_early.jpg "prediction june 23")
 
+### What went againts the odds?
+The elimination of Tunisian and Panama doesn't have an impact on other predictions.
+Now, Columbia and Japan have higher chances to go the next round but again with no significant effect beyong Round of 16.
 
-### what went againts the odds?
+## June 23rd
+Here is the perdiction by the end of the day:
+
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june23_corrected.jpg "prediction june 23")
+
+## What went againts the odds?
 Group F changed a bit: Germany's likelihood changed from being F1 to F2
 
 
@@ -55,7 +63,7 @@ Group F changed a bit: Germany's likelihood changed from being F1 to F2
 ## June 22nd
 
 Here is the perdiction by the end of the day:
-![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june22.jpg "prediction june 22")
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june22_corrected.jpg "prediction june 22")
 
 The following tables show the estimated probabilities (in %) for reaching the different stages.
 
