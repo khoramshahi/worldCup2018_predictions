@@ -11,7 +11,7 @@ Here is the perdiction by the end of the day:
 * I only focus on the 4 most probable teams for each location.
 * I highlight the locations where there is an update in the ranking compared to the day before.
 
-![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june24_early.jpg "prediction june 23")
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june24_corrected.jpg "prediction june 23")
 
 ### What went againts the odds?
 * The eliminations of Tunisia and Panama didn't have any impact on other predictions.
