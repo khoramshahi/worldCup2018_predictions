@@ -17,6 +17,41 @@ Here is the perdiction by the end of the day:
 * The eliminations of Tunisia and Panama didn't have any impact on other predictions.
 * Now, Columbia and Japan have higher chances to go the next round but again with no significant effect beyong Round of 16.
 
+### presence prababilities
+The following tables show the estimated probabilities (in %) for reaching the different stages.
+
+
+| Team         | Round of 16 | Quarter final | Semi Final |  Final | World Champion |
+|--------------|:-----------:|:-------------:|:----------:|:------:|:--------------:|
+| Brazil       | 0.9078 | 0.6368 | 0.5023 | 0.3613 | 0.2758 |
+| Spain        | 0.9905 | 0.734  | 0.4546 | 0.2609 | 0.131  |
+| Germany      | 0.863  | 0.4099 | 0.2784 | 0.1754 | 0.1069 |
+| France       | 1      | 0.6786 | 0.3905 | 0.1974 | 0.1066 |
+| Portugal     | 0.7566 | 0.5163 | 0.3012 | 0.1507 | 0.071  |
+| Belgium      | 1      | 0.7015 | 0.2942 | 0.1398 | 0.0573 |
+| England      | 1      | 0.711  | 0.2891 | 0.1364 | 0.0569 |
+| Croatia      | 1      | 0.6171 | 0.2892 | 0.1476 | 0.0549 |
+| Switzerland  | 0.9758 | 0.4721 | 0.2415 | 0.1043 | 0.0326 |
+| Uruguay      | 1      | 0.3832 | 0.176  | 0.0621 | 0.025  |
+| Mexico       | 0.7309 | 0.3309 | 0.1705 | 0.0726 | 0.0208 |
+| Argentina    | 0.6136 | 0.244  | 0.1133 | 0.0375 | 0.0169 |
+| Denmark      | 0.7954 | 0.3326 | 0.1229 | 0.0392 | 0.0137 |
+| Colombia     | 0.6394 | 0.265  | 0.1002 | 0.0402 | 0.0125 |
+| Russia       | 1      | 0.2632 | 0.0914 | 0.0269 | 0.0071 |
+| Sweden       | 0.3605 | 0.1042 | 0.0357 | 0.0119 | 0.0026 |
+| Iran         | 0.2529 | 0.1033 | 0.031  | 0.0077 | 0.0026 |
+| Senegal      | 0.4891 | 0.1391 | 0.0392 | 0.0116 | 0.0023 |
+| Serbia       | 0.1164 | 0.041  | 0.0133 | 0.004  | 0.0011 |
+| Japan        | 0.8715 | 0.1834 | 0.0346 | 0.0072 | 0.001  |
+| Nigeria      | 0.2487 | 0.05   | 0.0115 | 0.0012 | 0.0007 |
+| Australia    | 0.2046 | 0.0504 | 0.0125 | 0.0029 | 0.0004 |
+| Iceland      | 0.1377 | 0.0273 | 0.0059 | 0.0007 | 0.0003 |
+| South Korea  | 0.0456 | 0.0051 | 0.001  | 0.0005 | 0      |
+
+
+
+
+
 ## June 23rd
 Here is the perdiction by the end of the day:
 
@@ -65,7 +100,6 @@ Here is the perdiction by the end of the day:
 Here is the perdiction by the end of the day:
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june22_corrected.jpg "prediction june 22")
 
-The following tables show the estimated probabilities (in %) for reaching the different stages.
 
 
 | Team         | Round of 16 | Quarter final | Semi Final |  Final | World Champion |
