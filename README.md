@@ -1,5 +1,5 @@
 # World Cup 2018 predicitions
-To predic the outcomes, I run 10000 simulations of the world cup 2018 where I use the [ELO rationgs](http://www.eloratings.net/2018_World_Cup) to determine the result of the remaining games. Learn more about ELO rating [here](http://www.eloratings.net/about)
+To predic the outcomes, I run 10000 simulations of the world cup 2018 where I use the [ELO rationgs](http://www.eloratings.net/2018_World_Cup) to determine the result of the remaining games. Learn more about ELO rating [here](http://www.eloratings.net/about).
 
 I update the predicitoin at the end each day (if there is a game on the day) and I keep track of how things go against the odds. 
 
