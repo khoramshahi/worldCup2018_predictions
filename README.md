@@ -12,8 +12,9 @@ Group F changed a bit: Germany's likelihood changed from being F1 to F2
 
 ### presence prababilities
 
+| Team         | Round of 16 | Quarter final | Semi Final |  Final | World Champion |
+|--------------|:-----------:|:-------------:|:----------:|:------:|:--------------:|
 | Brazil       | 0.8986 | 0.6319 | 0.5092 | 0.3701 | 0.2789 |
-|--------------|:------:|:------:|:------:|:------:|:------:|
 | Spain        | 0.9911 | 0.7314 | 0.4524 | 0.2559 | 0.1272 |
 | France       |    1   |  0.677 | 0.3858 | 0.2002 | 0.1097 |
 | Germany      | 0.8266 | 0.3564 |  0.257 | 0.1556 |  0.095 |
