@@ -14,8 +14,8 @@ Here is the perdiction by the end of the day:
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june24_early.jpg "prediction june 23")
 
 ### What went againts the odds?
-The elimination of Tunisian and Panama doesn't have an impact on other predictions.
-Now, Columbia and Japan have higher chances to go the next round but again with no significant effect beyong Round of 16.
+*The elimination of Tunisian and Panama doesn't have an impact on other predictions.
+* Now, Columbia and Japan have higher chances to go the next round but again with no significant effect beyong Round of 16.
 
 ## June 23rd
 Here is the perdiction by the end of the day:
@@ -23,7 +23,7 @@ Here is the perdiction by the end of the day:
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june23_corrected.jpg "prediction june 23")
 
 ## What went againts the odds?
-Group F changed a bit: Germany's likelihood changed from being F1 to F2
+* Group F changed a bit: Germany's likelihood changed from being F1 to F2
 
 
 ### presence prababilities
