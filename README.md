@@ -14,7 +14,7 @@ Here is the perdiction by the end of the day:
 
 ### What went againts the odds?
 Nothing! most likely events took place.
-Only the low performances of Spain and Portugal (or to put differently, the good performances of Iran and Morocco) reduced their Elo ratings. Therefore, the have lower probabilites to progress in the world-cup. Especially for portugal. Now, Belgium, Croatia, and Engalnd have better chances for reaching to othe final.
+Only the low performances of Spain and Portugal (or to put differently, the good performances of Iran and Morocco) changed their Elo ratings significantly. Therefore, they have lower probabilites to progress in the world-cup. Especially for portugal. Now, Belgium, Croatia, and Engalnd have better chances to reach the final.
 
 ### presence prababilities
 The following tables show the estimated probabilities (in %) for reaching the different stages.
