@@ -3,13 +3,51 @@ To predic the outcomes, I run 10000 simulations of the world cup 2018 where I us
 
 I update the predicitoin at the end each day (if there is a game on the day) and I keep track of how things go against the odds. 
 
-
-## June 24th
+## June 25th
 Here is the perdiction by the end of the day:
 
 * numbers are probablities (in %) for each time to show up at a specific location in the brackets.
 * I only focus on the 4 most probable teams for each location.
 * I highlight the locations where there is an update in the ranking compared to the day before.
+
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june25.jpg "prediction june 23")
+
+### What went againts the odds?
+
+
+### presence prababilities
+The following tables show the estimated probabilities (in %) for reaching the different stages.
+
+
+| Team         | Round of 16 | Quarter final | Semi Final |  Final | World Champion |
+|--------------|:-----------:|:-------------:|:----------:|:------:|:--------------:|
+| Brazil      | 0.906  | 0.6322 | 0.4894 | 0.3555 | 0.2624 |
+| Spain       | 1      | 0.7994 | 0.4733 | 0.2745 | 0.1198 |
+| France      | 1      | 0.6765 | 0.402  | 0.1962 | 0.1124 |
+| Germany     | 0.8638 | 0.4137 | 0.2826 | 0.1803 | 0.1122 |
+| Belgium     | 1      | 0.6768 | 0.2799 | 0.1367 | 0.0609 |
+| Croatia     | 1      | 0.6027 | 0.2961 | 0.1576 | 0.0596 |
+| England     | 1      | 0.6843 | 0.282  | 0.1386 | 0.0574 |
+| Portugal    | 1      | 0.5241 | 0.2644 | 0.0986 | 0.0501 |
+| Uruguay     | 1      | 0.4759 | 0.2249 | 0.0772 | 0.037  |
+| Switzerland | 0.978  | 0.4742 | 0.234  | 0.1031 | 0.0358 |
+| Mexico      | 0.7345 | 0.3332 | 0.1683 | 0.0729 | 0.0258 |
+| Colombia    | 0.6855 | 0.3277 | 0.1341 | 0.0652 | 0.024  |
+| Argentina   | 0.6097 | 0.2444 | 0.1132 | 0.0395 | 0.0159 |
+| Denmark     | 0.8036 | 0.3496 | 0.1398 | 0.0484 | 0.0137 |
+| Sweden      | 0.3567 | 0.1024 | 0.04   | 0.0109 | 0.0034 |
+| Russia      | 1      | 0.2006 | 0.0575 | 0.0141 | 0.003  |
+| Senegal     | 0.4389 | 0.1229 | 0.0344 | 0.0114 | 0.0027 |
+| Japan       | 0.8756 | 0.1883 | 0.0401 | 0.0081 | 0.0013 |
+| Serbia      | 0.116  | 0.0405 | 0.0145 | 0.0043 | 0.0012 |
+| Iceland     | 0.1373 | 0.0308 | 0.0063 | 0.0013 | 0.0006 |
+| Nigeria     | 0.253  | 0.0485 | 0.0097 | 0.0015 | 0.0005 |
+| Australia   | 0.1964 | 0.0475 | 0.0128 | 0.0039 | 0.0003 |
+| South Korea | 0.045  | 0.0038 | 0.0007 | 0.0002 | 0      |
+
+## June 24th
+Here is the perdiction by the end of the day:
+
 
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june24_corrected.jpg "prediction june 23")
 
@@ -18,7 +56,6 @@ Here is the perdiction by the end of the day:
 * Now, Columbia and Japan have higher chances to go the next round but again with no significant effect beyong Round of 16.
 
 ### presence prababilities
-The following tables show the estimated probabilities (in %) for reaching the different stages.
 
 
 | Team         | Round of 16 | Quarter final | Semi Final |  Final | World Champion |
