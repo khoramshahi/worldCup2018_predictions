@@ -1,5 +1,5 @@
 # World Cup 2018 predicitions
-To predic the outcomes, I run 10000 simulations of the world cup 2018 where I use the [ELO rationgs](http://www.eloratings.net/2018_World_Cup) to determine the result of the remaining games. Learn more about ELO rating [here](http://www.eloratings.net/about).
+To predic the outcomes, I run 10000 simulations of the world cup 2018 where I use the [ELO ratings](http://www.eloratings.net/2018_World_Cup) to determine the result of the remaining games. Learn more about ELO rating [here](http://www.eloratings.net/about).
 
 I update the predicitoin at the end each day (if there is a game on the day) and I keep track of how things go against the odds. 
 
@@ -13,7 +13,8 @@ Here is the perdiction by the end of the day:
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june25.jpg "prediction june 23")
 
 ### What went againts the odds?
-
+Nothing! most likely events took place.
+Only the low performances of Spain and Portugal (or to put differently, the good performances of Iran and Morocco) reduced their Elo ratings. Therefore, the have lower probabilites to progress in the world-cup. Especially for portugal. Now, Belgium, Croatia, and Engalnd have better chances for reaching to othe final.
 
 ### presence prababilities
 The following tables show the estimated probabilities (in %) for reaching the different stages.
