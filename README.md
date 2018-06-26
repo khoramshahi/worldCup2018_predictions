@@ -3,12 +3,27 @@ To predic the outcomes, I run 10000 simulations of the world cup 2018 where I us
 
 I update the predicitoin at the end each day (if there is a game on the day) and I keep track of how things go against the odds. 
 
-## June 25th
+## June 26th
 Here is the perdiction by the end of the day:
 
 * numbers are probablities (in %) for each time to show up at a specific location in the brackets.
 * I only focus on the 4 most probable teams for each location.
 * I highlight the locations where there is an update in the ranking compared to the day before.
+
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june26.jpg "prediction june 23")
+
+### What went againts the odds?
+Nothing! most likely events took place.
+The draw between France and Denmrk lowered France's Elo. This result in lower probabilites for France to win the world cup.
+However, we should note that both teams alreay made it to the next round and they were happy with the draw. 
+Therefore, we might be suprised by their future performances since their current Elos are slightly biased.
+
+### presence prababilities
+The following tables show the estimated probabilities (in %) for reaching the different stages.
+
+
+## June 25th
+Here is the perdiction by the end of the day:
 
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june25.jpg "prediction june 23")
 
@@ -17,8 +32,6 @@ Nothing! most likely events took place.
 Only the low performances of Spain and Portugal (or to put differently, the good performances of Iran and Morocco) changed their Elo ratings significantly. Therefore, they have lower probabilites to progress in the world-cup. Especially for portugal. Now, Belgium, Croatia, and Engalnd have better chances to reach the final.
 
 ### presence prababilities
-The following tables show the estimated probabilities (in %) for reaching the different stages.
-
 
 | Team         | Round of 16 | Quarter final | Semi Final |  Final | World Champion |
 |--------------|:-----------:|:-------------:|:----------:|:------:|:--------------:|
