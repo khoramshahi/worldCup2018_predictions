@@ -21,6 +21,28 @@ Therefore, we might be suprised by their future performances since their current
 ### presence prababilities
 The following tables show the estimated probabilities (in %) for reaching the different stages.
 
+| Team         | Round of 16 | Quarter final | Semi Final |  Final | World Champion |
+|--------------|:-----------:|:-------------:|:----------:|:------:|:--------------:|
+| Brazil      | 0.9014 | 0.6262 | 0.4838 | 0.3574 | 0.2709 |
+| Spain       | 1      | 0.7942 | 0.4969 | 0.2816 | 0.1213 |
+| Germany     | 0.869  | 0.4156 | 0.288  | 0.1884 | 0.119  |
+| France      | 1      | 0.6238 | 0.3432 | 0.1395 | 0.0786 |
+| England     | 1      | 0.6902 | 0.2893 | 0.1495 | 0.0645 |
+| Belgium     | 1      | 0.6775 | 0.2839 | 0.14   | 0.0601 |
+| Portugal    | 1      | 0.5248 | 0.2653 | 0.1003 | 0.0512 |
+| Croatia     | 1      | 0.5964 | 0.2814 | 0.1355 | 0.0495 |
+| Uruguay     | 1      | 0.4752 | 0.2283 | 0.0852 | 0.0418 |
+| Switzerland | 0.9776 | 0.4782 | 0.2425 | 0.1152 | 0.0406 |
+| Colombia    | 0.6913 | 0.33   | 0.1334 | 0.0655 | 0.0282 |
+| Mexico      | 0.7304 | 0.3316 | 0.162  | 0.0721 | 0.0234 |
+| Argentina   | 1      | 0.3762 | 0.1632 | 0.0491 | 0.0208 |
+| Denmark     | 1      | 0.4036 | 0.1569 | 0.0654 | 0.0191 |
+| Russia      | 1      | 0.2058 | 0.0648 | 0.0198 | 0.0044 |
+| Senegal     | 0.4334 | 0.1155 | 0.0278 | 0.0088 | 0.0022 |
+| Sweden      | 0.3548 | 0.0972 | 0.0338 | 0.011  | 0.0019 |
+| Japan       | 0.8753 | 0.1868 | 0.0381 | 0.0098 | 0.0015 |
+| Serbia      | 0.121  | 0.0462 | 0.0167 | 0.0058 | 0.0009 |
+| South Korea | 0.0458 | 0.005  | 0.0007 | 0.0001 | 0.0001 |
 
 ## June 25th
 Here is the perdiction by the end of the day:
