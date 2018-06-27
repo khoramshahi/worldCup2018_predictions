@@ -13,7 +13,7 @@ Here is the perdiction by the end of the day:
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june27.jpg "prediction june 23")
 
 ### What went againts the odds?
-
+Maybe the biggest surprise in this world cup. We were expecting Germany to be present in the round of 16 with 86% which didn't happen!
 
 ### presence prababilities
 The following tables show the estimated probabilities (in %) for reaching the different stages.
