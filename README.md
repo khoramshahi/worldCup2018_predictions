@@ -3,12 +3,43 @@ To predic the outcomes, I run 10000 simulations of the world cup 2018 where I us
 
 I update the predicitoin at the end each day (if there is a game on the day) and I keep track of how things go against the odds. 
 
-## June 26th
+## June 27th
 Here is the perdiction by the end of the day:
 
 * numbers are probablities (in %) for each time to show up at a specific location in the brackets.
 * I only focus on the 4 most probable teams for each location.
 * I highlight the locations where there is an update in the ranking compared to the day before.
+
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june27.jpg "prediction june 23")
+
+### What went againts the odds?
+
+
+### presence prababilities
+The following tables show the estimated probabilities (in %) for reaching the different stages.
+
+| Team         | Round of 16 | Quarter final | Semi Final |  Final | World Champion |
+|--------------|:-----------:|:-------------:|:----------:|:------:|:--------------:|
+| Brazil      | 1      | 0.844  | 0.6142 | 0.4273 | 0.3106 |
+| Spain       | 1      | 0.8027 | 0.5035 | 0.3091 | 0.1388 |
+| France      | 1      | 0.6286 | 0.3425 | 0.1494 | 0.0848 |
+| Belgium     | 1      | 0.6814 | 0.3131 | 0.1598 | 0.0759 |
+| England     | 1      | 0.681  | 0.3203 | 0.1596 | 0.0757 |
+| Croatia     | 1      | 0.5867 | 0.2801 | 0.1547 | 0.0609 |
+| Portugal    | 1      | 0.5201 | 0.2643 | 0.1076 | 0.058  |
+| Uruguay     | 1      | 0.4799 | 0.2351 | 0.0855 | 0.0465 |
+| Switzerland | 1      | 0.5652 | 0.2802 | 0.1249 | 0.0411 |
+| Colombia    | 0.684  | 0.3293 | 0.1563 | 0.0768 | 0.0326 |
+| Argentina   | 1      | 0.3714 | 0.1581 | 0.0494 | 0.022  |
+| Sweden      | 1      | 0.4348 | 0.1882 | 0.0724 | 0.0218 |
+| Denmark     | 1      | 0.4133 | 0.1552 | 0.0673 | 0.0187 |
+| Mexico      | 1      | 0.156  | 0.0505 | 0.0162 | 0.0052 |
+| Russia      | 1      | 0.1973 | 0.0612 | 0.0189 | 0.0032 |
+| Senegal     | 0.4415 | 0.1199 | 0.0334 | 0.011  | 0.0028 |
+| Japan       | 0.8745 | 0.1884 | 0.0438 | 0.0101 | 0.0014 |
+
+## June 26th
+Here is the perdiction by the end of the day:
 
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june26.jpg "prediction june 23")
 * Sweden chance to get to F1 is 38.2%
