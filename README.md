@@ -11,7 +11,7 @@ Here is the perdiction by the end of the day:
 * I highlight the locations where there is an update in the ranking compared to the day before.
 
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june26.jpg "prediction june 23")
-* Sweden chance to get to F1 is 30.8%
+* Sweden chance to get to F1 is 38.2%
 
 ### What went againts the odds?
 Nothing! most likely events took place.
