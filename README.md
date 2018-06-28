@@ -13,12 +13,30 @@ Here is the perdiction by the end of the day:
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june28.jpg "prediction june 28")
 
 ### What went againts the odds?
-
+Nothing, but now Beligium has a better chance than France to progress. 
 
 
 ### presence prababilities
 The following tables show the estimated probabilities (in %) for reaching the different stages.
 
+| Team         |  Quarter final | Semi Final |  Final | World Champion |
+|-------------:|:-----------:|:-------------:|:------:|:--------------:|
+| Brazil      | 0.8493 | 0.6108 | 0.4254 | 0.3137 |
+| Spain       | 0.7992 | 0.5015 | 0.3032 | 0.1361 |
+| Belgium     | 0.8441 | 0.3173 | 0.1626 | 0.092  |
+| France      | 0.6236 | 0.3424 | 0.1508 | 0.0879 |
+| Croatia     | 0.5929 | 0.2849 | 0.1504 | 0.0569 |
+| Portugal    | 0.5194 | 0.2617 | 0.1069 | 0.0547 |
+| Colombia    | 0.4966 | 0.2798 | 0.1378 | 0.0522 |
+| England     | 0.5034 | 0.2832 | 0.1326 | 0.0489 |
+| Uruguay     | 0.4806 | 0.2291 | 0.0833 | 0.0412 |
+| Switzerland | 0.5625 | 0.2605 | 0.1172 | 0.0404 |
+| Argentina   | 0.3764 | 0.1668 | 0.0525 | 0.0223 |
+| Sweden      | 0.4375 | 0.1765 | 0.0709 | 0.0222 |
+| Denmark     | 0.4071 | 0.1526 | 0.0679 | 0.0212 |
+| Mexico      | 0.1507 | 0.0536 | 0.0157 | 0.0053 |
+| Russia      | 0.2008 | 0.061  | 0.02   | 0.0045 |
+| Japan       | 0.1559 | 0.0183 | 0.0028 | 0.0005 |
 
 ## June 27th
 Here is the perdiction by the end of the day:
@@ -29,7 +47,6 @@ Here is the perdiction by the end of the day:
 Maybe the biggest surprise in this world cup. We were expecting Germany to be present in the round of 16 with 86% which didn't happen!
 
 ### presence prababilities
-The following tables show the estimated probabilities (in %) for reaching the different stages.
 
 | Team         | Round of 16 | Quarter final | Semi Final |  Final | World Champion |
 |--------------|:-----------:|:-------------:|:----------:|:------:|:--------------:|
