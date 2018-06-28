@@ -3,14 +3,27 @@ To predic the outcomes, I run 10000 simulations of the world cup 2018 where I us
 
 I update the predicitoin at the end each day (if there is a game on the day) and I keep track of how things go against the odds. 
 
-## June 27th
-Here is the perdiction by the end of the day:
-
 * numbers are probablities (in %) for each time to show up at a specific location in the brackets.
 * I only focus on the 4 most probable teams for each location.
 * I highlight the locations where there is an update in the ranking compared to the day before.
 
-![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june27.jpg "prediction june 23")
+## June 28th
+Here is the perdiction by the end of the day:
+
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june28.jpg "prediction june 28")
+
+### What went againts the odds?
+
+
+
+### presence prababilities
+The following tables show the estimated probabilities (in %) for reaching the different stages.
+
+
+## June 27th
+Here is the perdiction by the end of the day:
+
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june27.jpg "prediction june 27")
 
 ### What went againts the odds?
 Maybe the biggest surprise in this world cup. We were expecting Germany to be present in the round of 16 with 86% which didn't happen!
@@ -41,7 +54,7 @@ The following tables show the estimated probabilities (in %) for reaching the di
 ## June 26th
 Here is the perdiction by the end of the day:
 
-![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june26.jpg "prediction june 23")
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june26.jpg "prediction june 26")
 * Sweden chance to get to F1 is 38.2%
 
 ### What went againts the odds?
@@ -79,7 +92,7 @@ The following tables show the estimated probabilities (in %) for reaching the di
 ## June 25th
 Here is the perdiction by the end of the day:
 
-![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june25.jpg "prediction june 23")
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june25.jpg "prediction june 25")
 
 ### What went againts the odds?
 Nothing! most likely events took place.
@@ -117,7 +130,7 @@ Only the low performances of Spain and Portugal (or to put differently, the good
 Here is the perdiction by the end of the day:
 
 
-![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june24_corrected.jpg "prediction june 23")
+![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june24_corrected.jpg "prediction june 24")
 
 ### What went againts the odds?
 * The eliminations of Tunisia and Panama didn't have any impact on other predictions.
