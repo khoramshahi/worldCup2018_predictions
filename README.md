@@ -3,12 +3,40 @@ To predic the outcomes, I run 10000 simulations of the world cup 2018 where I us
 
 I update the predicitoin at the end each day (if there is a game on the day) and I keep track of how things go against the odds. 
 
-* numbers are probablities (in %) for each time to show up at a specific location in the brackets.
-* I only focus on the 4 most probable teams for each location.
-* I highlight the locations where there is an update in the ranking compared to the day before.
+## June 30th
+From now on, I will just report the table, the brackets structure stays the same.
+The following tables show the estimated probabilities (in %) for reaching the different stages.
+
+
+| Team         |  Quarter final | Semi Final |  Final | World Champion |
+|-------------:|:-----------:|:-------------:|:------:|:--------------:|
+| Brazil      | 0.8498 | 0.6226 | 0.4189 | 0.3068 |
+| France      | 1      | 0.5626 | 0.2478 | 0.1468 |
+| Spain       | 0.7938 | 0.5011 | 0.3107 | 0.1388 |
+| Uruguay     | 1      | 0.4374 | 0.1662 | 0.0866 |
+| Belgium     | 0.84   | 0.3062 | 0.1498 | 0.0792 |
+| Croatia     | 0.591  | 0.2794 | 0.1524 | 0.0571 |
+| England     | 0.5117 | 0.2882 | 0.1359 | 0.0509 |
+| Colombia    | 0.4883 | 0.2695 | 0.1319 | 0.0479 |
+| Switzerland | 0.5567 | 0.2567 | 0.1105 | 0.0349 |
+| Denmark     | 0.409  | 0.156  | 0.0688 | 0.0222 |
+| Sweden      | 0.4433 | 0.1856 | 0.0717 | 0.0213 |
+| Mexico      | 0.1502 | 0.0554 | 0.0153 | 0.0043 |
+| Russia      | 0.2062 | 0.0635 | 0.0181 | 0.0029 |
+| Japan       | 0.16   | 0.0158 | 0.002  | 0.0003 |
+
+### What went againts the odds?
+Portugal (51.94%) had a slightly higher chance compared to Uruguay (48.06%), but Portugal got eliminated.
+Elimination of Argentina was expected (62.36%).
+
+
 
 ## June 28th
 Here is the perdiction by the end of the day:
+
+* numbers are probablities (in %) for each time to show up at a specific location in the brackets.
+* I only focus on the 4 most probable teams for each location.
+* I highlight the locations where there is an update in the ranking compared to the day before.
 
 ![alt text](https://github.com/khoramshahi/worldCup2018_predictions/blob/master/images/brackets_june28.jpg "prediction june 28")
 
