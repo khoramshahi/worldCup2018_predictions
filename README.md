@@ -3,6 +3,26 @@ To predic the outcomes, I run 10000 simulations of the world cup 2018 where I us
 
 I update the predicitoin at the end each day (if there is a game on the day) and I keep track of how things go against the odds. 
 
+## July 1st
+
+| Team         |  Quarter final | Semi Final |  Final | World Champion |
+|-------------:|:-----------:|:-------------:|:------:|:--------------:|
+| Brazil      | 0.8499 | 0.6191 | 0.4188 | 0.319  |
+| France      | 1      | 0.5631 | 0.2428 | 0.1473 |
+| Croatia     | 1      | 0.6969 | 0.3714 | 0.1378 |
+| Uruguay     | 1      | 0.4369 | 0.172  | 0.0979 |
+| Belgium     | 0.8371 | 0.3097 | 0.1501 | 0.087  |
+| England     | 0.5051 | 0.2855 | 0.1598 | 0.0593 |
+| Colombia    | 0.4949 | 0.2782 | 0.1539 | 0.0562 |
+| Switzerland | 0.563  | 0.2549 | 0.136  | 0.0447 |
+| Sweden      | 0.437  | 0.1814 | 0.0816 | 0.0244 |
+| Russia      | 1      | 0.3031 | 0.0973 | 0.0205 |
+| Mexico      | 0.1501 | 0.0528 | 0.0137 | 0.005  |
+| Japan       | 0.1629 | 0.0184 | 0.0026 | 0.0009 |
+
+### What went againts the odds?
+We were expecting Spain to pass this round with 79.4% which didn't happen.
+
 ## June 30th
 From now on, I will just report the table, the brackets structure stays the same.
 The following tables show the estimated probabilities (in %) for reaching the different stages.
