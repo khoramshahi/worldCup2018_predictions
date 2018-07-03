@@ -3,6 +3,23 @@ To predic the outcomes, I run 10000 simulations of the world cup 2018 where I us
 
 I update the predicitoin at the end each day (if there is a game on the day) and I keep track of how things go against the odds. 
 
+## July 3rd
+| Team    | Semi Final |  Final | World Champion |
+|---------:|:--------:|:--------:|:--------:|
+| Brazil  | 0.708  | 0.4828 | 0.3797 |
+| France  | 0.5679 | 0.2286 | 0.1444 |
+| Croatia | 0.686  | 0.3758 | 0.127  |
+| England | 0.5671 | 0.3076 | 0.0964 |
+| Uruguay | 0.4321 | 0.1511 | 0.089  |
+| Belgium | 0.292  | 0.1375 | 0.083  |
+| Sweden  | 0.4329 | 0.2066 | 0.0583 |
+| Russia  | 0.314  | 0.11   | 0.0222 |
+
+### What went againts the odds?
+Switzerland had a higher chance to win (56.1%), but Sweden won the game.
+
+
+
 ## July 2nd
 
 | Team         |  Quarter final | Semi Final |  Final | World Champion |
