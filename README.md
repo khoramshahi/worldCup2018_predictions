@@ -3,6 +3,18 @@ To predic the outcomes, I run 10000 simulations of the world cup 2018 where I us
 
 I update the predicitoin at the end each day (if there is a game on the day) and I keep track of how things go against the odds. 
 
+## July 7th
+
+| Team     |  Final | World Champion |
+|---------:|:--------:|:--------:|
+| France  | 0.527  | 0.3311 |   
+| Belgium | 0.473  | 0.2852 |   
+| England | 0.5704 | 0.23   |   
+| Croatia | 0.4296 | 0.1537 |   
+
+### What went againts the odds?
+Nothing!
+
 ## July 6th
 
 | Team    | Semi Final |  Final | World Champion |
