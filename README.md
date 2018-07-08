@@ -13,7 +13,7 @@ I update the predicitoin at the end each day (if there is a game on the day) and
 | Croatia | 0.4296 | 0.1537 |   
 
 ### What went againts the odds?
-Nothing! But interestig to see that the chance for the England to win the campionship increased from 11.3% to 23.0%.
+Nothing! But it is interestig to see that the chance for England to win the championship increased from 11.3% to 23.0%.
 
 ## July 6th
 
